@@ -11,7 +11,7 @@ Image Compressor and Resizeris a simple tool to help users compress and resize i
 
 ## Requirements
 
-- Python 3.x
+- Python 3.x (As we've created the installer hence no need to install Python)
 - Pillow (Python Imaging Library)
 
 ## Installation
