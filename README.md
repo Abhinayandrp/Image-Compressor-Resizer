@@ -22,7 +22,7 @@ This project is licensed under the MIT License.
 
 ## Caution
 **No future updates** 
-This software is no longer actively maintained, and no updates or new features will be released.
+This software is not actively maintained, and no updates or new features will be released.
 
 **No liability**
 We do not take any responsibility for any issues that may arise from using this tool, including but not limited to data loss or corrupted files.
