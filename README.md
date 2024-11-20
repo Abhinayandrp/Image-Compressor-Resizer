@@ -17,6 +17,9 @@ Image Compressor and Resizeris a simple tool to help users compress and resize i
 ## Installation
 Since an installer has been provided, there is no need to install Python or any dependencies manually. Simply run the installer to execute the application.
 
+## License
+This project is licensed under the MIT License.
+
 ## Caution
 **No future updates** 
 This software is no longer actively maintained, and no updates or new features will be released.
